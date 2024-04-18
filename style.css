@@ -109,7 +109,7 @@ img {
 
 /* banner */
 .banner {
-    background: url(images/banner.svg);
+    background: url(images/banner.png);
     background-size: cover;
     padding: 6rem 0 8rem 0;
     color: var(--primary-text-alternative);
@@ -168,7 +168,7 @@ img {
 
 /* aboutus */
 .aboutus-section {
-    background: url(images/aboutusbg.svg);
+    background: url(images/aboutusbg.png);
     background-repeat: no-repeat;
     background-position: bottom left;
 }
@@ -222,7 +222,7 @@ img {
 }
 /* services */
 .service-section {
-    background: url(images/services.svg);
+    background: url(images/services.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 14rem 0 6rem 0;
@@ -276,7 +276,7 @@ img {
 
 /* whyChooseUs */
 .whyChooseUs {
-    background: url(images/whyChooseUSsvg.svg);
+    background: url(images/whyChooseUSsvg.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 5rem 0;
@@ -308,7 +308,7 @@ img {
 }
 
 .testimonial-inner-div {
-    background: url(images/testimonialbg.svg);
+    background: url(images/testimonialbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--secondary-text-alternative);
@@ -333,7 +333,7 @@ img {
 
 /* connect-us */
 .connect-us {
-    background: url(images/connectbg.svg);
+    background: url(images/connectbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--primary-text);
@@ -391,7 +391,7 @@ img {
 }
 
 .investors-inner-div {
-    background: url(images/investorbg.svg);
+    background: url(images/investorbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--primary-text-alternative);
@@ -417,7 +417,7 @@ img {
 
 /* expertized-banner */
 .expertized-banner {
-    background: url(images/expbg.svg);
+    background: url(images/expbg.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 6rem 0px;
@@ -508,7 +508,7 @@ img {
 
 
 footer {
-    background: url(images/footbg.svg);
+    background: url(images/footbg.png);
     color: var(--primary-text-alternative);
 }
 
