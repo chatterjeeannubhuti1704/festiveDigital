@@ -87,7 +87,14 @@ img {
     gap: 1.5rem;
     align-items: center
 }
-
+.main-name{
+    color: var(--primary-color) !important;font-weight: 600 !important;    font-size: 30px !important;text-transform: uppercase;
+}
+.foot-name{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
 .main-header,
 .sub-header-inner {
     justify-content: space-between;
@@ -482,7 +489,7 @@ footer {
 }
 
 footer {
-    background: url(images/footbg.png)
+    background: url(images/footbg.png);    margin-top: 15rem;
 }
 
 .footer-left-head {
